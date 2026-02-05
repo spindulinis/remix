@@ -1,0 +1,11 @@
+# Node artifact files
+node_modules
+
+# JetBrains IDE
+.idea/
+
+# Remix
+/.cache
+/build
+.env
+
