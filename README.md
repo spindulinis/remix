@@ -8,7 +8,9 @@ Entities:
 - Category
 - Attribute
 
-This should work with [spindulinis/laravel](https://github.com/spindulinis/laravel) backend.
+It should work with: 
+- [spindulinis/laravel](https://github.com/spindulinis/laravel)
+- [spindulinis/fast-api](https://github.com/spindulinis/fast-api)
 
 ## Quick start
 
